@@ -149,7 +149,9 @@ streamlit run app.py
 ------------------------------------------------------------------------
 
 ## 👩‍💻 Author
-
+**Divyansh Bhatia (Team Lead)**
+**Shivang Joshi**
+**Jasika Garg**
 **Bhumi Sisodiya**
 
 B.Tech Computer Science Engineering\
